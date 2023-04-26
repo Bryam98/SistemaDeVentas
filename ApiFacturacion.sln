@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFacturacion", "ApiFacturacion\ApiFacturacion.csproj", "{59312703-650F-4C65-8046-234FA603874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59312703-650F-4C65-8046-234FA603874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59312703-650F-4C65-8046-234FA603874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59312703-650F-4C65-8046-234FA603874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59312703-650F-4C65-8046-234FA603874A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA3F7215-6C5C-4580-924C-2D64BABB5639}
+	EndGlobalSection
+EndGlobal
